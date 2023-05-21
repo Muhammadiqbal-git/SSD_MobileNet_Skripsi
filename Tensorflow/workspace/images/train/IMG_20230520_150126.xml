@@ -1,0 +1,38 @@
+<annotation>
+	<folder>all_imgs</folder>
+	<filename>IMG_20230520_150126.jpg</filename>
+	<path>D:\SSD_MobileNet_Skripsi\Tensorflow\workspace\images\all_imgs\IMG_20230520_150126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gelas CW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>2191</ymin>
+			<xmax>906</xmax>
+			<ymax>2617</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gelas CW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1688</xmin>
+			<ymin>1969</ymin>
+			<xmax>1993</xmax>
+			<ymax>2482</ymax>
+		</bndbox>
+	</object>
+</annotation>
